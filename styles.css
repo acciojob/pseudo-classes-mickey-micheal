@@ -1,4 +1,4 @@
-/*  your css code here. If applicable */
+
 :root{
     --bg-color:rgb(135, 206, 235);
 }
@@ -37,3 +37,4 @@ li:first-child, li:last-child{
 li:nth-last-child(3){
     background-color: pink;
 }
+
